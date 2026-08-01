@@ -3,7 +3,7 @@ title: "同じ自宅ラボをself-host OTelとSplunk Observability Cloudの両�
 emoji: "🌉"
 type: "tech"
 topics: ["opentelemetry", "splunk", "observability", "prometheus", "homelab"]
-published: true
+published: false
 ---
 
 ## この記事について
